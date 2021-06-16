@@ -8,6 +8,8 @@ PODS:
   - Kingfisher/Core (5.13.4)
   - LEETheme (1.1.11)
   - LookinServer (1.0.2)
+  - M80AttributedLabel (1.9.9)
+  - MJRefresh (3.6.1)
   - Moya (15.0.0-alpha.1):
     - Moya/Core (= 15.0.0-alpha.1)
   - Moya/Core (15.0.0-alpha.1):
@@ -17,12 +19,14 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire (~> 5.4.3)
-  - FDFullscreenPopGesture
+  - FDFullscreenPopGesture (~> 1.1)
   - FSPagerView (~> 0.8.3)
   - JXSegmentedView (~> 1.2.7)
   - Kingfisher (~> 5.13.2)
   - LEETheme (~> 1.1.11)
   - LookinServer (~> 1.0.0)
+  - M80AttributedLabel (~> 1.9.9)
+  - MJRefresh (~> 3.6.1)
   - Moya (~> 15.0.0-alpha.1)
   - RxSwift (~> 6.2.0)
   - SnapKit (~> 5.0.0)
@@ -36,6 +40,8 @@ SPEC REPOS:
     - Kingfisher
     - LEETheme
     - LookinServer
+    - M80AttributedLabel
+    - MJRefresh
     - Moya
     - RxSwift
     - SnapKit
@@ -48,10 +54,12 @@ SPEC CHECKSUMS:
   Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
   LEETheme: 5eed9006bdfd871e7c8f2c6b90a744f81ba5e5c6
   LookinServer: d6874df8b58096c8d463817b6baaa3abc21d31f7
+  M80AttributedLabel: 77fedfe63804c989a6de0fa4d400ea8cad3ab441
+  MJRefresh: d2c1970d1cf6e77fcfcdfe76c943dfab8dbfa5c1
   Moya: 101c94dfb29289736ecd20fa6e82bea665e0671b
   RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
 
-PODFILE CHECKSUM: 6d1f356a96fca278525a280874b111ea8b3551a7
+PODFILE CHECKSUM: 8c72de2887bc0d1540af762125c603294c3c6c18
 
 COCOAPODS: 1.10.1
