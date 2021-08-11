@@ -17,3 +17,10 @@ class ViewController: UIViewController {
 
 }
 
+// MARK: - tag1 -test
+extension ViewController {
+    func tag1() {
+        
+    }
+}
+
