@@ -30,3 +30,10 @@ extension ViewController {
         
     }
 }
+
+// MARK: - dev添加tag2
+extension ViewController {
+    func addDevTag2() {
+        
+    }
+}
